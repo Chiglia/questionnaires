@@ -1,0 +1,35 @@
+<div class="flex align-items-center justify-content-between p-3 surface-100 shadow-2">
+  <!-- Logo -->
+  <div class="flex align-items-center gap-2">
+    <i class="pi pi-compass text-primary text-2xl"></i>
+    <span class="font-bold text-xl">Quizzes</span>
+  </div>
+
+  <!-- Menu -->
+  <div class="hidden md:flex align-items-center gap-2">
+    <p-button routerLink="/" label="Home" variant="text" />
+    <p-button routerLink="/" label="About" variant="text" />
+    <p-button severity="contrast" [rounded]="true" icon="pi pi-moon" (click)="toggleTheme()" />
+  </div>
+
+  <!-- Icona mobile -->
+  <p-button icon="pi pi-bars" class="md:hidden" (click)="menuVisible = !menuVisible" text>
+  </p-button>
+</div>
+
+<!-- Menu mobile -->
+<p-drawer [(visible)]="menuVisible" position="right">
+  <div class="flex flex-column gap-3 mt-4">
+    <a pRipple class="text-color hover:text-primary cursor-pointer">Home</a>
+    <a pRipple class="text-color hover:text-primary cursor-pointer">About</a>
+    <a pRipple class="text-color hover:text-primary cursor-pointer">Services</a>
+    <a pRipple class="text-color hover:text-primary cursor-pointer">Contact</a>
+    <p-button
+      severity="contrast"
+      [rounded]="true"
+      icon="pi pi-moon"
+      (click)="toggleTheme()"
+      class="p-button-rounded p-button-text mr-2"
+    />
+  </div>
+</p-drawer>

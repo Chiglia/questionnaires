@@ -2,10 +2,11 @@ import { Component } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 import { QuizService } from '../../services/quiz.service';
 import { SharedModule } from '../../shared.module';
+import { ProgressBarModule } from 'primeng/progressbar';
 
 @Component({
   selector: 'app-quiz',
-  imports: [SharedModule],
+  imports: [SharedModule, ProgressBarModule],
   templateUrl: './quiz.html',
   styles: ``,
 })
@@ -24,6 +25,10 @@ export class Quiz {
   async ngOnInit() {
     this.quizId = this.route.snapshot.paramMap.get('id')!;
     this.questions = await this.quizService.getQuiz(this.quizId);
+  }
+
+  get progress(): number {
+    return (this.currentIndex / this.questions.length) * 100;
   }
 
   selectAnswer(answer: string) {

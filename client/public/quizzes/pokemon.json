@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Quale ambiente preferisci?",
+    "options": [
+      { "text": "Foreste e natura selvaggia", "value": "erba" },
+      { "text": "Fiumi e mari", "value": "acqua" },
+      { "text": "Città e posti affollati", "value": "normale" },
+      { "text": "Montagne o vulcani", "value": "fuoco" }
+    ]
+  },
+  {
+    "question": "Come affronti i problemi?",
+    "options": [
+      { "text": "Con calma e ragionamento", "value": "psico" },
+      { "text": "Con forza e determinazione", "value": "lotta" },
+      { "text": "Adattandomi a ogni situazione", "value": "normale" },
+      { "text": "Con astuzia e strategia", "value": "buio" }
+    ]
+  },
+  {
+    "question": "Quale attività ti diverte di più?",
+    "options": [
+      { "text": "Nuotare o stare vicino all’acqua", "value": "acqua" },
+      { "text": "Cucinare o scaldarsi accanto al fuoco", "value": "fuoco" },
+      { "text": "Esplorare e scoprire cose nuove", "value": "erba" },
+      { "text": "Riposare e stare tranquillo", "value": "normale" }
+    ]
+  },
+  {
+    "question": "Come reagisci in battaglia?",
+    "options": [
+      { "text": "Colpisco forte e velocemente", "value": "lotta" },
+      { "text": "Studio le mosse dell’avversario", "value": "psico" },
+      { "text": "Cerco di confondere e sorprendere", "value": "buio" },
+      { "text": "Uso le mie abilità naturali", "value": "erba" }
+    ]
+  },
+  {
+    "question": "Quale elemento ti attrae di più?",
+    "options": [
+      { "text": "Acqua e fiumi", "value": "acqua" },
+      { "text": "Fuoco e lava", "value": "fuoco" },
+      { "text": "Terra e foreste", "value": "erba" },
+      { "text": "Cielo e libertà", "value": "volante" }
+    ]
+  },
+  {
+    "question": "Quale Pokémon ti rappresenta di più?",
+    "options": [
+      { "text": "Charmander o Charizard", "value": "fuoco" },
+      { "text": "Squirtle o Blastoise", "value": "acqua" },
+      { "text": "Bulbasaur o Venusaur", "value": "erba" },
+      { "text": "Pidgey o Pidgeot", "value": "volante" }
+    ]
+  },
+  {
+    "question": "Qual è il tuo approccio ai nuovi amici?",
+    "options": [
+      { "text": "Faccio amicizia lentamente ma con lealtà", "value": "erba" },
+      { "text": "Sono aperto e socievole subito", "value": "acqua" },
+      { "text": "Faccio amicizia con chi è forte e coraggioso", "value": "fuoco" },
+      { "text": "Preferisco osservare prima di avvicinarmi", "value": "buio" }
+    ]
+  },
+  {
+    "question": "Come trascorri il tuo tempo libero?",
+    "options": [
+      { "text": "Allenandomi o combattendo", "value": "lotta" },
+      { "text": "Meditando o leggendo", "value": "psico" },
+      { "text": "Passeggiando nella natura", "value": "erba" },
+      { "text": "Nuotando o rilassandomi vicino all’acqua", "value": "acqua" }
+    ]
+  },
+  {
+    "question": "Quale qualità ti descrive meglio?",
+    "options": [
+      { "text": "Determinazione", "value": "fuoco" },
+      { "text": "Saggezza", "value": "psico" },
+      { "text": "Lealtà", "value": "erba" },
+      { "text": "Astuzia", "value": "buio" }
+    ]
+  },
+  {
+    "question": "Se potessi avere un’abilità speciale, quale sceglieresti?",
+    "options": [
+      { "text": "Controllare il fuoco", "value": "fuoco" },
+      { "text": "Controllare l’acqua", "value": "acqua" },
+      { "text": "Parlare con le piante e farle crescere", "value": "erba" },
+      { "text": "Leggere la mente degli altri", "value": "psico" }
+    ]
+  }
+]
