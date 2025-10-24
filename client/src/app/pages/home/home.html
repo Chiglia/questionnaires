@@ -1,0 +1,6 @@
+<div class="grid p-4">
+  <div class="col-12 md:col-6 lg:col-4" *ngFor="let quiz of quizzes">
+    <p-button styleClass="w-full p-5 text-xl" label="{{ quiz.name }}" (onClick)="goToQuiz(quiz.id)">
+    </p-button>
+  </div>
+</div>

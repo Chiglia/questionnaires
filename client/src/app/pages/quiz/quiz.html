@@ -1,0 +1,11 @@
+<div *ngIf="questions.length">
+  <h2>{{ questions[currentIndex].question }}</h2>
+  <div class="flex flex-column gap-3 mt-4">
+    <p-button
+      *ngFor="let option of questions[currentIndex].options"
+      label="{{ option.text }}"
+      (onClick)="selectAnswer(option.value)"
+    >
+    </p-button>
+  </div>
+</div>

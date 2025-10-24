@@ -1,0 +1,20 @@
+[
+  {
+    "question": "Ti piace studiare?",
+    "options": [
+      { "text": "Sì, moltissimo", "value": "ravenclaw" },
+      { "text": "Solo se serve a vincere", "value": "slytherin" },
+      { "text": "Mi piace, ma anche divertirmi", "value": "gryffindor" },
+      { "text": "Preferisco aiutare gli altri", "value": "hufflepuff" }
+    ]
+  },
+  {
+    "question": "Cosa faresti davanti a un drago?",
+    "options": [
+      { "text": "Lo affronto", "value": "gryffindor" },
+      { "text": "Cerco di domarlo", "value": "hufflepuff" },
+      { "text": "Studio come sconfiggerlo", "value": "ravenclaw" },
+      { "text": "Scappo e mi salvo", "value": "slytherin" }
+    ]
+  }
+]
