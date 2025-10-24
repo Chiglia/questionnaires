@@ -1,92 +1,105 @@
-[
-  {
-    "question": "Come affronti le difficoltà?",
-    "options": [
-      { "text": "Con coraggio e determinazione", "value": "mulan" },
-      { "text": "Con intelligenza e astuzia", "value": "belle" },
-      { "text": "Con gentilezza e pazienza", "value": "cenerentola" },
-      { "text": "Con furbizia e ambizione", "value": "hades" }
-    ]
-  },
-  {
-    "question": "Qual è il tuo modo preferito di divertirti?",
-    "options": [
-      { "text": "Avventure e sfide", "value": "aladdin" },
-      { "text": "Leggere libri e imparare cose nuove", "value": "belle" },
-      { "text": "Stare con amici e famiglia", "value": "simba" },
-      { "text": "Pianificare e ottenere quello che voglio", "value": "scar" }
-    ]
-  },
-  {
-    "question": "Cosa ti motiva di più nella vita?",
-    "options": [
-      { "text": "Dimostrare il mio coraggio", "value": "merida" },
-      { "text": "Scoprire e imparare cose nuove", "value": "rapunzel" },
-      { "text": "Aiutare gli altri e essere gentile", "value": "cenerentola" },
-      { "text": "Raggiungere il potere o il successo", "value": "jafar" }
-    ]
-  },
-  {
-    "question": "Come ti comporti con gli amici?",
-    "options": [
-      { "text": "Li proteggo e li difendo sempre", "value": "mulan" },
-      { "text": "Li ascolto e li aiuto quando serve", "value": "belle" },
-      { "text": "Mi diverto con loro e li sostengo", "value": "simba" },
-      { "text": "Li uso per ottenere vantaggi", "value": "scar" }
-    ]
-  },
-  {
-    "question": "Quale ambiente ti rappresenta meglio?",
-    "options": [
-      { "text": "Foreste e natura selvaggia", "value": "merida" },
-      { "text": "Castelli o biblioteche", "value": "belle" },
-      { "text": "Città e luoghi affollati", "value": "aladdin" },
-      { "text": "Regni oscuri o luoghi misteriosi", "value": "jafar" }
-    ]
-  },
-  {
-    "question": "Quale qualità apprezzi di più in te stesso?",
-    "options": [
-      { "text": "Coraggio", "value": "mulan" },
-      { "text": "Curiosità e intelligenza", "value": "belle" },
-      { "text": "Lealtà e gentilezza", "value": "simba" },
-      { "text": "Ambizione e astuzia", "value": "scar" }
-    ]
-  },
-  {
-    "question": "Se potessi avere un potere speciale, quale sceglieresti?",
-    "options": [
-      { "text": "Forza e abilità in battaglia", "value": "mulan" },
-      { "text": "Saggezza e conoscenza", "value": "belle" },
-      { "text": "Connessione con gli animali o la natura", "value": "simba" },
-      { "text": "Magia o controllo sugli altri", "value": "jafar" }
-    ]
-  },
-  {
-    "question": "Come trascorri il tuo tempo libero?",
-    "options": [
-      { "text": "Esplorando e affrontando sfide", "value": "aladdin" },
-      { "text": "Leggendo o imparando cose nuove", "value": "belle" },
-      { "text": "Stando con gli amici e divertendomi", "value": "simba" },
-      { "text": "Pianificando e manipolando", "value": "scar" }
-    ]
-  },
-  {
-    "question": "Quale emozione ti rappresenta meglio?",
-    "options": [
-      { "text": "Coraggio", "value": "merida" },
-      { "text": "Curiosità", "value": "belle" },
-      { "text": "Gentilezza", "value": "cenerentola" },
-      { "text": "Ambizione", "value": "jafar" }
-    ]
-  },
-  {
-    "question": "Cosa faresti se avessi un grande ostacolo da superare?",
-    "options": [
-      { "text": "Affronterei la sfida a testa alta", "value": "mulan" },
-      { "text": "Cercherei soluzioni intelligenti", "value": "belle" },
-      { "text": "Chiederei aiuto e farei squadra", "value": "simba" },
-      { "text": "Userei ogni mezzo per superarlo", "value": "scar" }
-    ]
+{
+  "questions": [
+    {
+      "question": "Come affronti le difficoltà?",
+      "options": [
+        { "text": "Con coraggio e determinazione", "value": "mulan" },
+        { "text": "Con intelligenza e astuzia", "value": "belle" },
+        { "text": "Con gentilezza e pazienza", "value": "cenerentola" },
+        { "text": "Con furbizia e ambizione", "value": "hades" }
+      ]
+    },
+    {
+      "question": "Qual è il tuo modo preferito di divertirti?",
+      "options": [
+        { "text": "Avventure e sfide", "value": "aladdin" },
+        { "text": "Leggere libri e imparare cose nuove", "value": "belle" },
+        { "text": "Stare con amici e famiglia", "value": "simba" },
+        { "text": "Pianificare e ottenere quello che voglio", "value": "scar" }
+      ]
+    },
+    {
+      "question": "Cosa ti motiva di più nella vita?",
+      "options": [
+        { "text": "Dimostrare il mio coraggio", "value": "merida" },
+        { "text": "Scoprire e imparare cose nuove", "value": "rapunzel" },
+        { "text": "Aiutare gli altri e essere gentile", "value": "cenerentola" },
+        { "text": "Raggiungere il potere o il successo", "value": "jafar" }
+      ]
+    },
+    {
+      "question": "Come ti comporti con gli amici?",
+      "options": [
+        { "text": "Li proteggo e li difendo sempre", "value": "mulan" },
+        { "text": "Li ascolto e li aiuto quando serve", "value": "belle" },
+        { "text": "Mi diverto con loro e li sostengo", "value": "simba" },
+        { "text": "Li uso per ottenere vantaggi", "value": "scar" }
+      ]
+    },
+    {
+      "question": "Quale ambiente ti rappresenta meglio?",
+      "options": [
+        { "text": "Foreste e natura selvaggia", "value": "merida" },
+        { "text": "Castelli o biblioteche", "value": "belle" },
+        { "text": "Città e luoghi affollati", "value": "aladdin" },
+        { "text": "Regni oscuri o luoghi misteriosi", "value": "jafar" }
+      ]
+    },
+    {
+      "question": "Quale qualità apprezzi di più in te stesso?",
+      "options": [
+        { "text": "Coraggio", "value": "mulan" },
+        { "text": "Curiosità e intelligenza", "value": "belle" },
+        { "text": "Lealtà e gentilezza", "value": "simba" },
+        { "text": "Ambizione e astuzia", "value": "scar" }
+      ]
+    },
+    {
+      "question": "Se potessi avere un potere speciale, quale sceglieresti?",
+      "options": [
+        { "text": "Forza e abilità in battaglia", "value": "mulan" },
+        { "text": "Saggezza e conoscenza", "value": "belle" },
+        { "text": "Connessione con gli animali o la natura", "value": "simba" },
+        { "text": "Magia o controllo sugli altri", "value": "jafar" }
+      ]
+    },
+    {
+      "question": "Come trascorri il tuo tempo libero?",
+      "options": [
+        { "text": "Esplorando e affrontando sfide", "value": "aladdin" },
+        { "text": "Leggendo o imparando cose nuove", "value": "belle" },
+        { "text": "Stando con gli amici e divertendomi", "value": "simba" },
+        { "text": "Pianificando e manipolando", "value": "scar" }
+      ]
+    },
+    {
+      "question": "Quale emozione ti rappresenta meglio?",
+      "options": [
+        { "text": "Coraggio", "value": "merida" },
+        { "text": "Curiosità", "value": "belle" },
+        { "text": "Gentilezza", "value": "cenerentola" },
+        { "text": "Ambizione", "value": "jafar" }
+      ]
+    },
+    {
+      "question": "Cosa faresti se avessi un grande ostacolo da superare?",
+      "options": [
+        { "text": "Affronterei la sfida a testa alta", "value": "mulan" },
+        { "text": "Cercherei soluzioni intelligenti", "value": "belle" },
+        { "text": "Chiederei aiuto e farei squadra", "value": "simba" },
+        { "text": "Userei ogni mezzo per superarlo", "value": "scar" }
+      ]
+    }
+  ],
+  "results": {
+    "mulan": "Coraggioso e determinato, pronto ad affrontare ogni sfida con coraggio e cuore.",
+    "belle": "Intelligente e curiosa, ama imparare e scoprire cose nuove.",
+    "cenerentola": "Gentile e paziente, sempre pronta ad aiutare e a fare del bene.",
+    "hades": "Astuto e ambizioso, non si ferma davanti a nulla per ottenere ciò che vuole.",
+    "aladdin": "Avventuroso e intraprendente, ama l’azione e le sfide emozionanti.",
+    "simba": "Leale e protettivo, ama la famiglia e gli amici e affronta la vita con coraggio.",
+    "scar": "Furbo e ambizioso, sa come manipolare e ottenere vantaggi in ogni situazione.",
+    "merida": "Indipendente e coraggiosa, pronta a seguire il proprio cuore ovunque.",
+    "rapunzel": "Curiosa e creativa, ama esplorare il mondo e scoprire nuove opportunità."
   }
-]
+}

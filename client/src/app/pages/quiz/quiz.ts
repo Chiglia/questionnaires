@@ -24,7 +24,7 @@ export class Quiz {
 
   async ngOnInit() {
     this.quizId = this.route.snapshot.paramMap.get('id')!;
-    this.questions = await this.quizService.getQuiz(this.quizId);
+    this.questions = (await this.quizService.getQuiz(this.quizId)).questions;
   }
 
   get progress(): number {

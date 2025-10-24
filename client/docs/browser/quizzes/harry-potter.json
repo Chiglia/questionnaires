@@ -1,92 +1,100 @@
-[
-  {
-    "question": "Come affronti una sfida difficile?",
-    "options": [
-      { "text": "Con coraggio e determinazione", "value": "gryffindor" },
-      { "text": "Analizzo ogni possibile strategia", "value": "ravenclaw" },
-      { "text": "Cerco alleati e collaboro", "value": "hufflepuff" },
-      { "text": "Uso ogni mezzo necessario per vincere", "value": "slytherin" }
-    ]
-  },
-  {
-    "question": "Qual è il tuo passatempo preferito?",
-    "options": [
-      { "text": "Leggere libri e imparare cose nuove", "value": "ravenclaw" },
-      { "text": "Fare sport o attività avventurose", "value": "gryffindor" },
-      { "text": "Passare tempo con amici e famiglia", "value": "hufflepuff" },
-      { "text": "Pianificare e ottenere vantaggi personali", "value": "slytherin" }
-    ]
-  },
-  {
-    "question": "Come descriveresti il tuo modo di fare amicizia?",
-    "options": [
-      { "text": "Faccio amicizia con chi è coraggioso", "value": "gryffindor" },
-      { "text": "Con chi condivide i miei interessi intellettuali", "value": "ravenclaw" },
-      { "text": "Con chi è gentile e leale", "value": "hufflepuff" },
-      { "text": "Con chi può aiutarmi a raggiungere i miei obiettivi", "value": "slytherin" }
-    ]
-  },
-  {
-    "question": "Quale qualità apprezzi di più negli altri?",
-    "options": [
-      { "text": "Coraggio", "value": "gryffindor" },
-      { "text": "Intelligenza", "value": "ravenclaw" },
-      { "text": "Lealtà", "value": "hufflepuff" },
-      { "text": "Ambizione", "value": "slytherin" }
-    ]
-  },
-  {
-    "question": "Se avessi un animale magico, quale sceglieresti?",
-    "options": [
-      { "text": "Un leone fiero", "value": "gryffindor" },
-      { "text": "Un gufo saggio", "value": "ravenclaw" },
-      { "text": "Un tasso amichevole", "value": "hufflepuff" },
-      { "text": "Un serpente astuto", "value": "slytherin" }
-    ]
-  },
-  {
-    "question": "Come reagisci davanti a un ingiustizia?",
-    "options": [
-      { "text": "Mi batto subito contro di essa", "value": "gryffindor" },
-      { "text": "Studio il modo migliore per risolverla", "value": "ravenclaw" },
-      { "text": "Aiuto chi ne è vittima", "value": "hufflepuff" },
-      { "text": "Sfrutto la situazione a mio vantaggio", "value": "slytherin" }
-    ]
-  },
-  {
-    "question": "Quale magia vorresti padroneggiare prima di tutto?",
-    "options": [
-      { "text": "Incantesimi di difesa", "value": "gryffindor" },
-      { "text": "Incantesimi complessi e avanzati", "value": "ravenclaw" },
-      { "text": "Incantesimi per aiutare gli altri", "value": "hufflepuff" },
-      { "text": "Incantesimi che danno potere o influenza", "value": "slytherin" }
-    ]
-  },
-  {
-    "question": "Qual è il tuo approccio verso la competizione?",
-    "options": [
-      { "text": "Mi lancio con coraggio e determinazione", "value": "gryffindor" },
-      { "text": "Studio le regole e uso l’astuzia", "value": "ravenclaw" },
-      { "text": "Gioco per divertirsi, non per vincere", "value": "hufflepuff" },
-      { "text": "Voglio vincere a tutti i costi", "value": "slytherin" }
-    ]
-  },
-  {
-    "question": "Cosa ti motiva di più nella vita?",
-    "options": [
-      { "text": "Affrontare le sfide con coraggio", "value": "gryffindor" },
-      { "text": "Acquisire conoscenza e saggezza", "value": "ravenclaw" },
-      { "text": "Aiutare e proteggere gli altri", "value": "hufflepuff" },
-      { "text": "Raggiungere il successo e il potere", "value": "slytherin" }
-    ]
-  },
-  {
-    "question": "Se potessi vivere in un ambiente ideale, quale sceglieresti?",
-    "options": [
-      { "text": "Un luogo pieno di avventure e sfide", "value": "gryffindor" },
-      { "text": "Una biblioteca o una torre dello studio", "value": "ravenclaw" },
-      { "text": "Una comunità accogliente e solidale", "value": "hufflepuff" },
-      { "text": "Un posto dove posso prosperare e influenzare", "value": "slytherin" }
-    ]
+{
+  "questions": [
+    {
+      "question": "Come affronti una sfida difficile?",
+      "options": [
+        { "text": "Con coraggio e determinazione", "value": "grifondoro" },
+        { "text": "Analizzo ogni possibile strategia", "value": "corvonero" },
+        { "text": "Cerco alleati e collaboro", "value": "tassorosso" },
+        { "text": "Uso ogni mezzo necessario per vincere", "value": "serpeverde" }
+      ]
+    },
+    {
+      "question": "Qual è il tuo passatempo preferito?",
+      "options": [
+        { "text": "Leggere libri e imparare cose nuove", "value": "corvonero" },
+        { "text": "Fare sport o attività avventurose", "value": "grifondoro" },
+        { "text": "Passare tempo con amici e famiglia", "value": "tassorosso" },
+        { "text": "Pianificare e ottenere vantaggi personali", "value": "serpeverde" }
+      ]
+    },
+    {
+      "question": "Come descriveresti il tuo modo di fare amicizia?",
+      "options": [
+        { "text": "Faccio amicizia con chi è coraggioso", "value": "grifondoro" },
+        { "text": "Con chi condivide i miei interessi intellettuali", "value": "corvonero" },
+        { "text": "Con chi è gentile e leale", "value": "tassorosso" },
+        { "text": "Con chi può aiutarmi a raggiungere i miei obiettivi", "value": "serpeverde" }
+      ]
+    },
+    {
+      "question": "Quale qualità apprezzi di più negli altri?",
+      "options": [
+        { "text": "Coraggio", "value": "grifondoro" },
+        { "text": "Intelligenza", "value": "corvonero" },
+        { "text": "Lealtà", "value": "tassorosso" },
+        { "text": "Ambizione", "value": "serpeverde" }
+      ]
+    },
+    {
+      "question": "Se avessi un animale magico, quale sceglieresti?",
+      "options": [
+        { "text": "Un leone fiero", "value": "grifondoro" },
+        { "text": "Un gufo saggio", "value": "corvonero" },
+        { "text": "Un tasso amichevole", "value": "tassorosso" },
+        { "text": "Un serpente astuto", "value": "serpeverde" }
+      ]
+    },
+    {
+      "question": "Come reagisci davanti a un ingiustizia?",
+      "options": [
+        { "text": "Mi batto subito contro di essa", "value": "grifondoro" },
+        { "text": "Studio il modo migliore per risolverla", "value": "corvonero" },
+        { "text": "Aiuto chi ne è vittima", "value": "tassorosso" },
+        { "text": "Sfrutto la situazione a mio vantaggio", "value": "serpeverde" }
+      ]
+    },
+    {
+      "question": "Quale magia vorresti padroneggiare prima di tutto?",
+      "options": [
+        { "text": "Incantesimi di difesa", "value": "grifondoro" },
+        { "text": "Incantesimi complessi e avanzati", "value": "corvonero" },
+        { "text": "Incantesimi per aiutare gli altri", "value": "tassorosso" },
+        { "text": "Incantesimi che danno potere o influenza", "value": "serpeverde" }
+      ]
+    },
+    {
+      "question": "Qual è il tuo approccio verso la competizione?",
+      "options": [
+        { "text": "Mi lancio con coraggio e determinazione", "value": "grifondoro" },
+        { "text": "Studio le regole e uso l’astuzia", "value": "corvonero" },
+        { "text": "Gioco per divertirsi, non per vincere", "value": "tassorosso" },
+        { "text": "Voglio vincere a tutti i costi", "value": "serpeverde" }
+      ]
+    },
+    {
+      "question": "Cosa ti motiva di più nella vita?",
+      "options": [
+        { "text": "Affrontare le sfide con coraggio", "value": "grifondoro" },
+        { "text": "Acquisire conoscenza e saggezza", "value": "corvonero" },
+        { "text": "Aiutare e proteggere gli altri", "value": "tassorosso" },
+        { "text": "Raggiungere il successo e il potere", "value": "serpeverde" }
+      ]
+    },
+    {
+      "question": "Se potessi vivere in un ambiente ideale, quale sceglieresti?",
+      "options": [
+        { "text": "Un luogo pieno di avventure e sfide", "value": "grifondoro" },
+        { "text": "Una biblioteca o una torre dello studio", "value": "corvonero" },
+        { "text": "Una comunità accogliente e solidale", "value": "tassorosso" },
+        { "text": "Un posto dove posso prosperare e influenzare", "value": "serpeverde" }
+      ]
+    }
+  ],
+  "results": {
+    "grifondoro": "Coraggioso, leale e audace, pronto a mettersi alla prova e affrontare le sfide.",
+    "serpeverde": "Ambizioso, furbo e determinato, sa come raggiungere i propri obiettivi.",
+    "corvonero": "Intelligente, curioso e creativo, ama apprendere e ragionare.",
+    "tassorosso": "Gentile, paziente e affidabile, mette sempre il bene degli altri al primo posto."
   }
-]
+}

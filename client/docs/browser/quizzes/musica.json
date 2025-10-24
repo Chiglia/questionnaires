@@ -1,0 +1,100 @@
+{
+  "questions": [
+    {
+      "question": "Quale attività fai ascoltando musica?",
+      "options": [
+        { "text": "Mi concentro e studio", "value": "classica" },
+        { "text": "Mi carico per fare sport o muovermi", "value": "pop" },
+        { "text": "Rifletto sui testi e sulle emozioni", "value": "indie" },
+        { "text": "Cerco ritmo potente e energia", "value": "rock" }
+      ]
+    },
+    {
+      "question": "Che strumento ti affascina di più?",
+      "options": [
+        { "text": "Pianoforte o violino", "value": "classica" },
+        { "text": "Chitarra elettrica o batteria", "value": "rock" },
+        { "text": "Sintetizzatori o elettronica", "value": "pop" },
+        { "text": "Chitarra acustica o strumenti acustici", "value": "indie" }
+      ]
+    },
+    {
+      "question": "Quale emozione cerchi nella musica?",
+      "options": [
+        { "text": "Calma e armonia", "value": "classica" },
+        { "text": "Euforia e divertimento", "value": "pop" },
+        { "text": "Riflessione e introspezione", "value": "indie" },
+        { "text": "Adrenalina e potenza", "value": "rock" }
+      ]
+    },
+    {
+      "question": "Come scegli un nuovo brano da ascoltare?",
+      "options": [
+        { "text": "In base alla complessità musicale", "value": "classica" },
+        { "text": "Se è orecchiabile e ballabile", "value": "pop" },
+        { "text": "Se trasmette un messaggio o sentimento", "value": "indie" },
+        { "text": "Se ha energia e ritmo forte", "value": "rock" }
+      ]
+    },
+    {
+      "question": "Dove ti piace ascoltare musica?",
+      "options": [
+        { "text": "In silenzio, per concentrarmi", "value": "classica" },
+        { "text": "Ovunque, per caricare la giornata", "value": "pop" },
+        { "text": "In ambienti tranquilli, da solo o in compagnia stretta", "value": "indie" },
+        { "text": "Durante eventi o feste, dove si può sentire potente", "value": "rock" }
+      ]
+    },
+    {
+      "question": "Quale artista o gruppo ti rappresenta di più?",
+      "options": [
+        { "text": "Beethoven o Mozart", "value": "classica" },
+        { "text": "Taylor Swift o Ed Sheeran", "value": "pop" },
+        { "text": "Bon Iver o Florence + The Machine", "value": "indie" },
+        { "text": "AC/DC o Queen", "value": "rock" }
+      ]
+    },
+    {
+      "question": "Come reagisci quando senti un nuovo brano?",
+      "options": [
+        { "text": "Lo ascolto attentamente, analizzando ogni dettaglio", "value": "classica" },
+        { "text": "Inizio subito a muovermi o canticchiare", "value": "pop" },
+        { "text": "Cerco di capire il messaggio o le emozioni", "value": "indie" },
+        { "text": "Mi carica e mi fa sentire energia pura", "value": "rock" }
+      ]
+    },
+    {
+      "question": "Quale ritmo ti rappresenta meglio?",
+      "options": [
+        { "text": "Delicato e armonioso", "value": "classica" },
+        { "text": "Allegro e accattivante", "value": "pop" },
+        { "text": "Soffice e introspettivo", "value": "indie" },
+        { "text": "Forte e travolgente", "value": "rock" }
+      ]
+    },
+    {
+      "question": "Se dovessi descrivere la tua playlist ideale?",
+      "options": [
+        { "text": "Orchestrale e sofisticata", "value": "classica" },
+        { "text": "Energica e piena di hit", "value": "pop" },
+        { "text": "Atmosferica e alternativa", "value": "indie" },
+        { "text": "Potente e coinvolgente", "value": "rock" }
+      ]
+    },
+    {
+      "question": "Che ruolo ha la musica nella tua vita?",
+      "options": [
+        { "text": "Fonte di concentrazione e ispirazione", "value": "classica" },
+        { "text": "Divertimento e compagnia", "value": "pop" },
+        { "text": "Espressione dei sentimenti", "value": "indie" },
+        { "text": "Carica e motivazione", "value": "rock" }
+      ]
+    }
+  ],
+  "results": {
+    "classica": "Ami l’armonia e la raffinatezza: la musica classica ti ispira e ti aiuta a concentrarti.",
+    "pop": "Sei allegro, socievole e energico: la musica pop ti accompagna in ogni momento della giornata.",
+    "indie": "Sei riflessivo e creativo: l’indie ti permette di esplorare emozioni e storie profonde.",
+    "rock": "Sei appassionato e determinato: il rock ti dà energia, coraggio e voglia di affrontare le sfide."
+  }
+}

@@ -1,6 +1,14 @@
 <div class="grid p-4">
-  <div class="col-12 md:col-6 lg:col-4" *ngFor="let quiz of quizzes">
-    <p-button styleClass="w-full p-5 text-xl" label="{{ quiz.name }}" (onClick)="goToQuiz(quiz.id)">
+  @for (quiz of quizzes; track $index) {
+  <div class="col-12 sm:col-6 md:col-6 lg:col-4">
+    <p-button styleClass="p-5 relative w-full h-15rem" (onClick)="goToQuiz(quiz.id)">
+      <p class="absolute z-1 text-white-alpha-80 text-3xl font-bold">{{ quiz.name }}</p>
+      <img
+        src="{{ quiz.img }}"
+        class="absolute z-0 h-full w-full"
+        style="filter: brightness(50%)"
+      />
     </p-button>
   </div>
+  }
 </div>

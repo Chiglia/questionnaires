@@ -10,9 +10,11 @@ import { SharedModule } from '../../shared.module';
 })
 export class Home {
   quizzes = [
-    { id: 'harry-potter', name: 'Harry Potter' },
-    { id: 'disney', name: 'Disney' },
-    { id: 'pokemon', name: 'Pokémon' },
+    { id: 'harry-potter', name: 'Harry Potter', img: 'images/harry-potter.jpg' },
+    { id: 'disney', name: 'Disney', img: 'images/disney.jpg' },
+    { id: 'pokemon', name: 'Pokémon', img: 'images/pokemon.jpg' },
+    { id: 'musica', name: 'Musica', img: 'images/musica.jpg' },
+    { id: 'bidone', name: 'Bidone della spazzatura', img: 'images/bidone.jpg' },
   ];
 
   constructor(private router: Router) {}

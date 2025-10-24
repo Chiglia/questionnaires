@@ -1,0 +1,100 @@
+{
+  "questions": [
+    {
+      "question": "Come affronti le cose di tutti i giorni?",
+      "options": [
+        { "text": "Organizzo tutto in modo ordinato e preciso", "value": "carta" },
+        { "text": "Mi adatto e recupero sempre tutto ciò che serve", "value": "plastica" },
+        { "text": "Mi prendo cura dell’ambiente e della natura", "value": "verde" },
+        { "text": "Tengo le cose speciali a parte, anche se un po’ puzzolenti", "value": "olio" }
+      ]
+    },
+    {
+      "question": "Come ti senti in gruppo?",
+      "options": [
+        { "text": "Sempre pronto a collaborare e condividere informazioni", "value": "carta" },
+        { "text": "Mi mescolo facilmente e mi adatto a tutti", "value": "plastica" },
+        { "text": "Aiuto gli altri e cerco di rendere tutto più verde", "value": "verde" },
+        { "text": "Mi tengo un po’ appartato e unico nel mio stile", "value": "olio" }
+      ]
+    },
+    {
+      "question": "Qual è il tuo obiettivo principale?",
+      "options": [
+        { "text": "Essere utile e organizzato", "value": "carta" },
+        { "text": "Recuperare e riutilizzare al meglio", "value": "plastica" },
+        { "text": "Proteggere e rispettare la natura", "value": "verde" },
+        { "text": "Gestire ciò che altri evitano", "value": "olio" }
+      ]
+    },
+    {
+      "question": "Come reagisci quando ti trovi in una situazione caotica?",
+      "options": [
+        { "text": "Resto calmo e metto ordine", "value": "carta" },
+        { "text": "Mi adatto e cerco di trovare soluzioni", "value": "plastica" },
+        { "text": "Cerco di ripristinare equilibrio e armonia", "value": "verde" },
+        { "text": "Affronto la situazione senza paura, anche se è sporca", "value": "olio" }
+      ]
+    },
+    {
+      "question": "Quale aggettivo ti descrive meglio?",
+      "options": [
+        { "text": "Organizzato", "value": "carta" },
+        { "text": "Versatile", "value": "plastica" },
+        { "text": "Responsabile", "value": "verde" },
+        { "text": "Eccentrico", "value": "olio" }
+      ]
+    },
+    {
+      "question": "Se potessi scegliere un colore per rappresentarti, quale sarebbe?",
+      "options": [
+        { "text": "Blu (come la carta da riciclare)", "value": "carta" },
+        { "text": "Giallo o trasparente (come la plastica)", "value": "plastica" },
+        { "text": "Verde (come il compost o le piante)", "value": "verde" },
+        { "text": "Marrone scuro o nero (come l’olio esausto)", "value": "olio" }
+      ]
+    },
+    {
+      "question": "Cosa ti piace fare nel tempo libero?",
+      "options": [
+        { "text": "Organizzare e pianificare attività", "value": "carta" },
+        { "text": "Creare cose nuove o riciclare materiali", "value": "plastica" },
+        { "text": "Passeggiare nella natura o coltivare piante", "value": "verde" },
+        { "text": "Sperimentare cose insolite o uniche", "value": "olio" }
+      ]
+    },
+    {
+      "question": "Come affronti i problemi?",
+      "options": [
+        { "text": "Analizzo tutto e faccio un piano preciso", "value": "carta" },
+        { "text": "Trovo soluzioni creative e adattabili", "value": "plastica" },
+        { "text": "Cerco di risolverli senza danneggiare gli altri", "value": "verde" },
+        { "text": "Affronto anche le situazioni più difficili o sgradevoli", "value": "olio" }
+      ]
+    },
+    {
+      "question": "Come ti descrivono gli altri?",
+      "options": [
+        { "text": "Affidabile e ordinato", "value": "carta" },
+        { "text": "Versatile e pratico", "value": "plastica" },
+        { "text": "Premuroso e responsabile", "value": "verde" },
+        { "text": "Originale e un po’ misterioso", "value": "olio" }
+      ]
+    },
+    {
+      "question": "Se fossi un oggetto, quale saresti?",
+      "options": [
+        { "text": "Un quaderno o un libro", "value": "carta" },
+        { "text": "Una bottiglia o un contenitore riutilizzabile", "value": "plastica" },
+        { "text": "Una pianta o un compost", "value": "verde" },
+        { "text": "Una bottiglia d’olio usata ma preziosa", "value": "olio" }
+      ]
+    }
+  ],
+  "results": {
+    "carta": "Sei ordinato e organizzato, ami mettere tutto in ordine e rendere tutto chiaro.",
+    "plastica": "Sei versatile e adattabile, riesci a trovare soluzioni in ogni situazione.",
+    "verde": "Sei responsabile e attento all’ambiente, ami la natura e il benessere comune.",
+    "olio": "Sei originale e un po’ eccentrico, affronti le sfide che altri evitano e non ti spaventi delle situazioni sporche."
+  }
+}
