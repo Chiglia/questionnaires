@@ -1,0 +1,100 @@
+{
+  "questions": [
+    {
+      "question": "Come ti vesti di solito?",
+      "options": [
+        { "text": "Classico e ordinato", "value": "bianco" },
+        { "text": "Colorato e divertente", "value": "fantasia" },
+        { "text": "Comodo e rilassato", "value": "calzino_sportivo" },
+        { "text": "Elegante e di qualità", "value": "nero" }
+      ]
+    },
+    {
+      "question": "Qual è il tuo mood preferito?",
+      "options": [
+        { "text": "Tranquillo e sereno", "value": "bianco" },
+        { "text": "Allegro e creativo", "value": "fantasia" },
+        { "text": "Attivo e energico", "value": "calzino_sportivo" },
+        { "text": "Sicuro e raffinato", "value": "nero" }
+      ]
+    },
+    {
+      "question": "Che tipo di giornata ti rappresenta meglio?",
+      "options": [
+        { "text": "Piena di routine e stabilità", "value": "bianco" },
+        { "text": "Imprevedibile e divertente", "value": "fantasia" },
+        { "text": "Attiva e sportiva", "value": "calzino_sportivo" },
+        { "text": "Elegante e professionale", "value": "nero" }
+      ]
+    },
+    {
+      "question": "Come affronti le situazioni difficili?",
+      "options": [
+        { "text": "Con calma e metodo", "value": "bianco" },
+        { "text": "Con creatività e leggerezza", "value": "fantasia" },
+        { "text": "Con energia e determinazione", "value": "calzino_sportivo" },
+        { "text": "Con stile e sicurezza", "value": "nero" }
+      ]
+    },
+    {
+      "question": "Quale accessorio non può mancare nel tuo outfit?",
+      "options": [
+        { "text": "Scarpe classiche e semplici", "value": "bianco" },
+        { "text": "Accessori colorati o stravaganti", "value": "fantasia" },
+        { "text": "Scarpe da ginnastica comode", "value": "calzino_sportivo" },
+        { "text": "Scarpe eleganti e lucide", "value": "nero" }
+      ]
+    },
+    {
+      "question": "Quale attività ti rappresenta meglio?",
+      "options": [
+        { "text": "Leggere o lavorare tranquillo", "value": "bianco" },
+        { "text": "Fare festa o viaggiare", "value": "fantasia" },
+        { "text": "Sport o attività fisica", "value": "calzino_sportivo" },
+        { "text": "Eventi eleganti o occasioni speciali", "value": "nero" }
+      ]
+    },
+    {
+      "question": "Se fossi un colore, quale saresti?",
+      "options": [
+        { "text": "Bianco puro", "value": "bianco" },
+        { "text": "Colorato e pieno di fantasia", "value": "fantasia" },
+        { "text": "Grigio o colori vivaci sportivi", "value": "calzino_sportivo" },
+        { "text": "Nero elegante", "value": "nero" }
+      ]
+    },
+    {
+      "question": "Come reagisci a un imprevisto?",
+      "options": [
+        { "text": "Mantengo la calma", "value": "bianco" },
+        { "text": "Trovo il lato divertente", "value": "fantasia" },
+        { "text": "Agisco subito e velocemente", "value": "calzino_sportivo" },
+        { "text": "Gestisco tutto con stile", "value": "nero" }
+      ]
+    },
+    {
+      "question": "Cosa ti piace di più in generale?",
+      "options": [
+        { "text": "Semplicità e ordine", "value": "bianco" },
+        { "text": "Creatività e colore", "value": "fantasia" },
+        { "text": "Energia e movimento", "value": "calzino_sportivo" },
+        { "text": "Eleganza e raffinatezza", "value": "nero" }
+      ]
+    },
+    {
+      "question": "Se fossi un calzino da indossare oggi, quale saresti?",
+      "options": [
+        { "text": "Il classico calzino bianco", "value": "bianco" },
+        { "text": "Un calzino pazzo con disegni", "value": "fantasia" },
+        { "text": "Un calzino sportivo comodo", "value": "calzino_sportivo" },
+        { "text": "Un calzino nero elegante", "value": "nero" }
+      ]
+    }
+  ],
+  "results": {
+    "bianco": "Sei il calzino bianco classico: semplice, ordinato e affidabile, sempre pronto a svolgere il tuo compito senza troppe pretese.",
+    "fantasia": "Sei un calzino colorato e creativo: divertente, allegro e pieno di fantasia, porti sempre gioia ovunque vai.",
+    "calzino_sportivo": "Sei un calzino sportivo: energico, attivo e pratico, ami muoverti e affrontare ogni sfida con entusiasmo.",
+    "nero": "Sei un calzino nero elegante: raffinato, sicuro di te e sempre perfetto in ogni occasione speciale."
+  }
+}

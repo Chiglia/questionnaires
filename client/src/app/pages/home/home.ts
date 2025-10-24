@@ -15,6 +15,8 @@ export class Home {
     { id: 'pokemon', name: 'Pokémon', img: 'images/pokemon.jpg' },
     { id: 'musica', name: 'Musica', img: 'images/musica.jpg' },
     { id: 'bidone', name: 'Bidone della spazzatura', img: 'images/bidone.jpg' },
+    { id: 'calzino', name: 'Calzino', img: 'images/calzino.jpg' },
+    { id: 'marvel', name: 'Marvel', img: 'images/marvel.jpg' },
   ];
 
   constructor(private router: Router) {}

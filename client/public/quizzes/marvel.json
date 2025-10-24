@@ -1,0 +1,100 @@
+{
+  "questions": [
+    {
+      "question": "Come affronti i problemi?",
+      "options": [
+        { "text": "Con coraggio e determinazione", "value": "ironman" },
+        { "text": "Con calma e strategia", "value": "captainamerica" },
+        { "text": "Usando astuzia e ingegno", "value": "spiderman" },
+        { "text": "Con forza bruta e potere", "value": "hulk" }
+      ]
+    },
+    {
+      "question": "Qual è il tuo approccio verso gli altri?",
+      "options": [
+        { "text": "Leader e guida", "value": "captainamerica" },
+        { "text": "Divertente e scherzoso", "value": "spiderman" },
+        { "text": "Sicuro di sé e brillante", "value": "ironman" },
+        { "text": "Protettivo ma talvolta solitario", "value": "hulk" }
+      ]
+    },
+    {
+      "question": "Quale qualità ti descrive meglio?",
+      "options": [
+        { "text": "Coraggio", "value": "captainamerica" },
+        { "text": "Intelligenza e creatività", "value": "ironman" },
+        { "text": "Agilità e astuzia", "value": "spiderman" },
+        { "text": "Forza e determinazione", "value": "hulk" }
+      ]
+    },
+    {
+      "question": "Come reagisci davanti a una sfida impossibile?",
+      "options": [
+        { "text": "Trovo un piano e seguo i principi", "value": "captainamerica" },
+        { "text": "Cerco una soluzione tecnologica o ingegnosa", "value": "ironman" },
+        { "text": "Uso agilità e intuito", "value": "spiderman" },
+        { "text": "Affronto tutto con pura forza", "value": "hulk" }
+      ]
+    },
+    {
+      "question": "Cosa ti motiva di più?",
+      "options": [
+        { "text": "Difendere ciò che è giusto", "value": "captainamerica" },
+        { "text": "Creare e innovare", "value": "ironman" },
+        { "text": "Aiutare gli altri e fare la differenza", "value": "spiderman" },
+        { "text": "Proteggere chi amo", "value": "hulk" }
+      ]
+    },
+    {
+      "question": "Qual è il tuo stile di vita?",
+      "options": [
+        { "text": "Disciplina e ordine", "value": "captainamerica" },
+        { "text": "Avventura e lusso tecnologico", "value": "ironman" },
+        { "text": "Normale ma sempre pronto a intervenire", "value": "spiderman" },
+        { "text": "Solitaria ma potente", "value": "hulk" }
+      ]
+    },
+    {
+      "question": "Se fossi un potere, quale sarebbe?",
+      "options": [
+        { "text": "Forza e leadership", "value": "captainamerica" },
+        { "text": "Intelligenza e tecnologia", "value": "ironman" },
+        { "text": "Agilità e spirito combattivo", "value": "spiderman" },
+        { "text": "Forza sovrumana", "value": "hulk" }
+      ]
+    },
+    {
+      "question": "Come affronti i tuoi nemici?",
+      "options": [
+        { "text": "Con strategia e principio", "value": "captainamerica" },
+        { "text": "Con ingegno e innovazione", "value": "ironman" },
+        { "text": "Con agilità e astuzia", "value": "spiderman" },
+        { "text": "Con forza e determinazione", "value": "hulk" }
+      ]
+    },
+    {
+      "question": "Qual è il tuo modo di rilassarti?",
+      "options": [
+        { "text": "Allenamento o disciplina", "value": "captainamerica" },
+        { "text": "Progetti tecnologici e innovazioni", "value": "ironman" },
+        { "text": "Divertendomi con amici", "value": "spiderman" },
+        { "text": "Riposo e tranquillità", "value": "hulk" }
+      ]
+    },
+    {
+      "question": "Come ti descrivono gli altri?",
+      "options": [
+        { "text": "Esempio e guida morale", "value": "captainamerica" },
+        { "text": "Brillante e ambizioso", "value": "ironman" },
+        { "text": "Simpatico e agile", "value": "spiderman" },
+        { "text": "Potente e protettivo", "value": "hulk" }
+      ]
+    }
+  ],
+  "results": {
+    "ironman": "Sei brillante, creativo e sicuro di te. Ami l’innovazione e affronti le sfide con intelligenza e tecnologia.",
+    "captainamerica": "Sei coraggioso, leale e un leader naturale. Difendi ciò che è giusto e metti gli altri prima di te.",
+    "spiderman": "Sei agile, intelligente e spiritoso. Ami aiutare gli altri e affronti la vita con entusiasmo e astuzia.",
+    "hulk": "Sei potente, determinato e protettivo. Anche se a volte solitario, affronti ogni sfida con forza pura."
+  }
+}
