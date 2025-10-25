@@ -1,6 +1,6 @@
 <div class="flex align-items-center justify-content-between p-3 surface-100 shadow-2">
   <!-- Logo -->
-  <div class="flex align-items-center gap-2">
+  <div routerLink="/" class="flex align-items-center gap-2">
     <i class="pi pi-compass text-primary text-2xl"></i>
     <span class="font-bold text-xl">Quizzes</span>
   </div>
@@ -20,10 +20,8 @@
 <!-- Menu mobile -->
 <p-drawer [(visible)]="menuVisible" position="right">
   <div class="flex flex-column gap-3 mt-4">
-    <a pRipple class="text-color hover:text-primary cursor-pointer">Home</a>
-    <a pRipple class="text-color hover:text-primary cursor-pointer">About</a>
-    <a pRipple class="text-color hover:text-primary cursor-pointer">Services</a>
-    <a pRipple class="text-color hover:text-primary cursor-pointer">Contact</a>
+    <p-button routerLink="/" label="Home" variant="text" />
+    <p-button routerLink="/" label="About" variant="text" />
     <p-button
       severity="contrast"
       [rounded]="true"
