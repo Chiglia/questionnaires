@@ -1,12 +1,12 @@
 <div class="grid p-4">
   @for (quiz of quizzes; track $index) {
-  <div class="col-12 sm:col-6 md:col-6 lg:col-4">
+  <div class="col-6 md:col-4 lg:col-3">
     <p-button styleClass="p-5 relative w-full h-15rem" (onClick)="goToQuiz(quiz.id)">
       <p class="absolute z-1 text-white-alpha-80 text-3xl font-bold">{{ quiz.name }}</p>
       <img
         src="{{ quiz.img }}"
-        class="absolute z-0 h-full w-full"
-        style="filter: brightness(50%)"
+        class="absolute z-0 w-full h-full"
+        style="filter: brightness(50%); object-fit: cover"
       />
     </p-button>
   </div>

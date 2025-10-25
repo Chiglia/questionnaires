@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "Come affronti un problema complesso?",
+      "options": [
+        { "text": "Cerco soluzioni pragmatiche e concrete", "value": "pd" },
+        { "text": "Faccio un discorso infuocato e motivante", "value": "fdl" },
+        { "text": "Propongo un piano rivoluzionario e alternativo", "value": "m5s" },
+        { "text": "Cerco un compromesso che accontenti tutti", "value": "fi" },
+        { "text": "Faccio notare che il problema è del sistema", "value": "lega" }
+      ]
+    },
+    {
+      "question": "Qual è il tuo rapporto con le regole?",
+      "options": [
+        { "text": "Vanno rispettate, ma si possono migliorare", "value": "pd" },
+        { "text": "Vanno riscritte da zero", "value": "m5s" },
+        { "text": "Servono per mantenere l’ordine", "value": "fdl" },
+        { "text": "Le interpreto con flessibilità", "value": "fi" },
+        { "text": "Dipende da chi le ha fatte", "value": "lega" }
+      ]
+    },
+    {
+      "question": "Cosa pensi dell’Europa?",
+      "options": [
+        { "text": "Fondamentale, ma va riformata", "value": "pd" },
+        { "text": "Serve più sovranità nazionale", "value": "fdl" },
+        { "text": "È utile, ma deve ascoltare i cittadini", "value": "m5s" },
+        { "text": "Ottima opportunità economica", "value": "fi" },
+        { "text": "Troppa burocrazia e poca libertà", "value": "lega" }
+      ]
+    },
+    {
+      "question": "Come ti comporti in una discussione accesa?",
+      "options": [
+        { "text": "Cerco di mediare con calma", "value": "fi" },
+        { "text": "Difendo le mie idee con passione", "value": "fdl" },
+        { "text": "Cerco di convincere con i fatti", "value": "pd" },
+        { "text": "Mi infervoro e dico la mia senza filtri", "value": "lega" },
+        { "text": "Propongo di cambiare tutto", "value": "m5s" }
+      ]
+    },
+    {
+      "question": "Come immagini un’Italia ideale?",
+      "options": [
+        { "text": "Giusta, solidale e sostenibile", "value": "pd" },
+        { "text": "Orgogliosa, forte e sicura", "value": "fdl" },
+        { "text": "Libera, digitale e trasparente", "value": "m5s" },
+        { "text": "Produttiva, moderna e competitiva", "value": "fi" },
+        { "text": "Sovrana, tradizionale e indipendente", "value": "lega" }
+      ]
+    },
+    {
+      "question": "Come reagisci davanti a un cambiamento improvviso?",
+      "options": [
+        { "text": "Mi adatto e cerco di capire", "value": "pd" },
+        { "text": "Mi oppongo se va contro i miei valori", "value": "fdl" },
+        { "text": "Lo accolgo come un’occasione di rinnovamento", "value": "m5s" },
+        { "text": "Valuto cosa conviene di più", "value": "fi" },
+        { "text": "Diffido, ma poi trovo un modo per farlo funzionare", "value": "lega" }
+      ]
+    },
+    {
+      "question": "Cosa pensi dei compromessi?",
+      "options": [
+        { "text": "Necessari per governare", "value": "pd" },
+        { "text": "Meglio mantenere la linea dura", "value": "fdl" },
+        { "text": "Accettabili solo se portano un cambiamento vero", "value": "m5s" },
+        { "text": "Fanno parte della politica", "value": "fi" },
+        { "text": "A volte inevitabili, ma mai facili", "value": "lega" }
+      ]
+    },
+    {
+      "question": "Come preferisci comunicare le tue idee?",
+      "options": [
+        { "text": "Con discorsi strutturati e chiari", "value": "pd" },
+        { "text": "Con slogan forti e diretti", "value": "fdl" },
+        { "text": "Con video, social e trasparenza", "value": "m5s" },
+        { "text": "Con diplomazia e sorrisi", "value": "fi" },
+        { "text": "Con tono deciso e parole semplici", "value": "lega" }
+      ]
+    },
+    {
+      "question": "Qual è la tua priorità nella vita sociale?",
+      "options": [
+        { "text": "Parità e diritti per tutti", "value": "pd" },
+        { "text": "Sicurezza e identità nazionale", "value": "fdl" },
+        { "text": "Giustizia e partecipazione civica", "value": "m5s" },
+        { "text": "Lavoro e opportunità economiche", "value": "fi" },
+        { "text": "Tradizione e autonomia locale", "value": "lega" }
+      ]
+    },
+    {
+      "question": "Come gestisci una sconfitta?",
+      "options": [
+        { "text": "Analizzo gli errori e riprovo", "value": "pd" },
+        { "text": "Dico che è solo una battaglia, non la guerra", "value": "fdl" },
+        { "text": "Mi arrabbio ma mi rialzo subito", "value": "lega" },
+        { "text": "Cerco una nuova strategia", "value": "m5s" },
+        { "text": "Mi faccio un weekend di relax e torno carico", "value": "fi" }
+      ]
+    }
+  ],
+  "results": {
+    "pd": "Ti rappresenta il Partito Democratico! Riflessivo, dialogante e orientato al progresso, credi nella collaborazione e nel compromesso per migliorare le cose passo dopo passo.",
+    "fdl": "Ti rappresenta Fratelli d’Italia! Determinato, passionale e patriottico, affronti le sfide con fermezza e non ti tiri mai indietro dalle tue convinzioni.",
+    "m5s": "Ti rappresenta il Movimento 5 Stelle! Idealista, innovativo e indipendente, vuoi cambiare le regole del gioco e dare voce a chi di solito non viene ascoltato.",
+    "fi": "Ti rappresenta Forza Italia! Moderato, ottimista e pragmatico, credi nella libertà individuale e nel miglioramento attraverso equilibrio e diplomazia.",
+    "lega": "Ti rappresenta la Lega! Concreto, diretto e radicato nella tradizione, ami l’autonomia e la chiarezza nelle scelte, senza troppi giri di parole."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "questions": [
+    {
+      "question": "Come affronti una sfida difficile?",
+      "options": [
+        { "text": "Con astuzia e un piano ben preciso", "value": "beepbeep" },
+        { "text": "Con ironia e leggerezza", "value": "bugs" },
+        { "text": "Con energia e impulsività", "value": "taz" },
+        { "text": "Con un po’ di fortuna e molta testardaggine", "value": "daffy" }
+      ]
+    },
+    {
+      "question": "Come reagisci quando qualcosa non va come previsto?",
+      "options": [
+        { "text": "Mi arrabbio ma poi mi passa subito", "value": "taz" },
+        { "text": "Cerco un nuovo piano più astuto", "value": "beepbeep" },
+        { "text": "Mi lamento teatralmente", "value": "daffy" },
+        { "text": "Faccio una battuta e passo oltre", "value": "bugs" }
+      ]
+    },
+    {
+      "question": "Qual è il tuo modo di divertiti?",
+      "options": [
+        { "text": "Fare scherzi agli amici", "value": "bugs" },
+        { "text": "Correre e non fermarmi mai", "value": "beepbeep" },
+        { "text": "Mangiare e scatenarmi", "value": "taz" },
+        { "text": "Essere il protagonista ovunque", "value": "daffy" }
+      ]
+    },
+    {
+      "question": "Come ti descriverebbero i tuoi amici?",
+      "options": [
+        { "text": "Divertente e sempre pronto alla battuta", "value": "bugs" },
+        { "text": "Un po’ caotico ma simpatico", "value": "taz" },
+        { "text": "Competitivo e vanitoso", "value": "daffy" },
+        { "text": "Silenzioso ma imbattibile", "value": "beepbeep" }
+      ]
+    },
+    {
+      "question": "Qual è la tua più grande qualità?",
+      "options": [
+        { "text": "L’intelligenza e la calma", "value": "bugs" },
+        { "text": "La determinazione e la velocità", "value": "beepbeep" },
+        { "text": "La spontaneità e la forza", "value": "taz" },
+        { "text": "Il carisma e la voglia di emergere", "value": "daffy" }
+      ]
+    },
+    {
+      "question": "Come affronti una competizione?",
+      "options": [
+        { "text": "Cerco di vincere con astuzia", "value": "beepbeep" },
+        { "text": "Non mi prendo troppo sul serio", "value": "bugs" },
+        { "text": "Mi butto senza pensarci troppo", "value": "taz" },
+        { "text": "Faccio di tutto pur di vincere", "value": "daffy" }
+      ]
+    },
+    {
+      "question": "Cosa faresti in una giornata libera?",
+      "options": [
+        { "text": "Mangerei e dormirei tutto il giorno", "value": "taz" },
+        { "text": "Correrei senza meta, solo per il gusto di farlo", "value": "beepbeep" },
+        { "text": "Organizzerei qualche scherzo", "value": "bugs" },
+        { "text": "Mi metterei in mostra davanti a tutti", "value": "daffy" }
+      ]
+    },
+    {
+      "question": "Qual è il tuo punto debole?",
+      "options": [
+        { "text": "A volte sono troppo competitivo", "value": "daffy" },
+        { "text": "Mi arrabbio facilmente", "value": "taz" },
+        { "text": "Mi piace vincere, anche un po’ troppo", "value": "beepbeep" },
+        { "text": "Prendo tutto troppo alla leggera", "value": "bugs" }
+      ]
+    },
+    {
+      "question": "Se qualcuno ti provoca, cosa fai?",
+      "options": [
+        { "text": "Rispondo con sarcasmo", "value": "bugs" },
+        { "text": "Parto all’attacco senza pensarci", "value": "taz" },
+        { "text": "Mi invento un piano di vendetta", "value": "beepbeep" },
+        { "text": "Faccio una scenata epica", "value": "daffy" }
+      ]
+    },
+    {
+      "question": "Come reagisci al successo?",
+      "options": [
+        { "text": "Con modestia e un sorriso", "value": "bugs" },
+        { "text": "Con una corsa trionfale", "value": "beepbeep" },
+        { "text": "Saltando e urlando di gioia", "value": "taz" },
+        { "text": "Con un discorso esagerato su quanto sono bravo", "value": "daffy" }
+      ]
+    }
+  ],
+  "results": {
+    "bugs": "Sei Bugs Bunny! Intelligente, ironico e sempre con una battuta pronta. Ti piace prendere la vita con leggerezza e usi la testa per risolvere ogni problema.",
+    "daffy": "Sei Daffy Duck! Ambizioso, teatrale e un po’ egocentrico, ma sotto la superficie hai un cuore enorme e tanta voglia di essere amato.",
+    "taz": "Sei il Diavolo della Tasmania! Caotico, pieno di energia e impossibile da fermare: vivi la vita al massimo e non ti preoccupi troppo delle regole.",
+    "beepbeep": "Sei Beep Beep! Veloce, concentrato e sempre un passo avanti agli altri. Nessuno riesce a starti dietro, ma tu corri solo per divertirti!"
+  }
+}

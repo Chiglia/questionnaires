@@ -1,0 +1,100 @@
+{
+  "questions": [
+    {
+      "question": "Qual è la tua serata ideale?",
+      "options": [
+        { "text": "Tranquilla con gli amici di sempre", "value": "margherita" },
+        { "text": "Un po' piccante e movimentata", "value": "diavola" },
+        { "text": "Elegante e raffinata", "value": "prosciuttofunghi" },
+        { "text": "Strana ma geniale", "value": "ananas" }
+      ]
+    },
+    {
+      "question": "Come ti descriveresti?",
+      "options": [
+        { "text": "Semplice ma sempre apprezzato", "value": "margherita" },
+        { "text": "Intenso e passionale", "value": "diavola" },
+        { "text": "Equilibrato e sofisticato", "value": "prosciuttofunghi" },
+        { "text": "Imprevedibile e creativo", "value": "ananas" }
+      ]
+    },
+    {
+      "question": "Come reagisci ai cambiamenti?",
+      "options": [
+        { "text": "Mi adatto facilmente", "value": "prosciuttofunghi" },
+        { "text": "Li affronto di petto, con fuoco dentro", "value": "diavola" },
+        { "text": "Preferisco la stabilità", "value": "margherita" },
+        { "text": "Cambio? Adoro sperimentare!", "value": "ananas" }
+      ]
+    },
+    {
+      "question": "Qual è il tuo posto preferito per mangiare?",
+      "options": [
+        { "text": "Una pizzeria classica di quartiere", "value": "margherita" },
+        { "text": "Un locale moderno e trendy", "value": "ananas" },
+        { "text": "Un ristorante elegante", "value": "prosciuttofunghi" },
+        { "text": "Ovunque, purché il cibo sia piccante", "value": "diavola" }
+      ]
+    },
+    {
+      "question": "Come affronti una discussione?",
+      "options": [
+        { "text": "Con calma e buon senso", "value": "margherita" },
+        { "text": "Con passione e senza filtri", "value": "diavola" },
+        { "text": "Cerco il compromesso", "value": "prosciuttofunghi" },
+        { "text": "Con una battuta che spiazza tutti", "value": "ananas" }
+      ]
+    },
+    {
+      "question": "Cosa non può mancare nella tua vita?",
+      "options": [
+        { "text": "La semplicità", "value": "margherita" },
+        { "text": "L’adrenalina", "value": "diavola" },
+        { "text": "L’equilibrio", "value": "prosciuttofunghi" },
+        { "text": "La sorpresa", "value": "ananas" }
+      ]
+    },
+    {
+      "question": "Che tipo di film preferisci?",
+      "options": [
+        { "text": "Romantico o familiare", "value": "margherita" },
+        { "text": "Azione o thriller", "value": "diavola" },
+        { "text": "Drammatico o storico", "value": "prosciuttofunghi" },
+        { "text": "Commedia assurda o fantascienza", "value": "ananas" }
+      ]
+    },
+    {
+      "question": "Come affronti una giornata stressante?",
+      "options": [
+        { "text": "Con calma e un sorriso", "value": "margherita" },
+        { "text": "Sfogandomi con energia", "value": "diavola" },
+        { "text": "Rilassandomi con qualcosa di buono", "value": "prosciuttofunghi" },
+        { "text": "Facendo qualcosa di fuori dal comune", "value": "ananas" }
+      ]
+    },
+    {
+      "question": "Se fossi un ingrediente, saresti…",
+      "options": [
+        { "text": "Pomodoro", "value": "margherita" },
+        { "text": "Peperoncino", "value": "diavola" },
+        { "text": "Funghi", "value": "prosciuttofunghi" },
+        { "text": "Ananas (ovviamente)", "value": "ananas" }
+      ]
+    },
+    {
+      "question": "Cosa direbbero i tuoi amici di te?",
+      "options": [
+        { "text": "Una persona buona e affidabile", "value": "margherita" },
+        { "text": "Un vulcano di energia", "value": "diavola" },
+        { "text": "Sempre composto e sensibile", "value": "prosciuttofunghi" },
+        { "text": "Un po’ folle ma divertente", "value": "ananas" }
+      ]
+    }
+  ],
+  "results": {
+    "margherita": "Sei la pizza classica: semplice, autentico e sempre apprezzato. Le persone si fidano di te perché porti equilibrio e serenità ovunque vai.",
+    "diavola": "Hai un carattere forte e deciso, ami la vita intensa e non ti tiri mai indietro davanti a una sfida. Un po’ piccante, ma irresistibile!",
+    "prosciuttofunghi": "Sei elegante e bilanciato, ami le cose fatte bene e sai sempre come comportarti. Un mix perfetto tra gusto e buon senso.",
+    "ananas": "Sei l’anima creativa del gruppo: strano, sorprendente e pieno di idee. Non tutti ti capiscono, ma chi lo fa ti adora!"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "question": "Come reagisci di solito a una piccola sfortuna quotidiana?",
+      "options": [
+        { "text": "Respiro e cerco di prenderla con calma", "value": "accipicchia" },
+        { "text": "Mi lamento un po’, ma poi rido della situazione", "value": "mannaggia" },
+        { "text": "Mi sorprendo e passo subito oltre", "value": "caspita" },
+        { "text": "Faccio una scenetta teatrale per sdrammatizzare", "value": "perdindirindina" }
+      ]
+    },
+    {
+      "question": "Qual è la tua reazione quando qualcuno ti fa un torto?",
+      "options": [
+        { "text": "Cerco di capire il perché, senza arrabbiarmi troppo", "value": "accipicchia" },
+        { "text": "Mi sfogo subito, poi mi passa", "value": "mannaggia" },
+        { "text": "Resto calmo ma dentro ribollo un po’", "value": "caspita" },
+        { "text": "Esagero la mia reazione per fare ironia", "value": "perdindirindina" }
+      ]
+    },
+    {
+      "question": "Come reagisci di fronte a una sorpresa positiva?",
+      "options": [
+        { "text": "Mi illumino e condivido la gioia con tutti", "value": "caspita" },
+        { "text": "Mi stupisco ma cerco di restare composto", "value": "accipicchia" },
+        { "text": "Rido e faccio una battuta", "value": "mannaggia" },
+        { "text": "Faccio una reazione da film, piena di entusiasmo", "value": "perdindirindina" }
+      ]
+    },
+    {
+      "question": "Quando sbagli qualcosa di banale, come reagisci?",
+      "options": [
+        { "text": "Mi prendo in giro da solo", "value": "mannaggia" },
+        { "text": "Mi irrito un po’, ma poi torno serio", "value": "accipicchia" },
+        { "text": "Faccio una risata e passo oltre", "value": "caspita" },
+        { "text": "Esagero la reazione per far ridere gli altri", "value": "perdindirindina" }
+      ]
+    },
+    {
+      "question": "Come affronti una giornata piena di imprevisti?",
+      "options": [
+        {
+          "text": "Cerco di restare positivo e prendere tutto con filosofia",
+          "value": "accipicchia"
+        },
+        {
+          "text": "Mi agito, ma poi trovo un modo per ridere della situazione",
+          "value": "mannaggia"
+        },
+        { "text": "Procedo con calma, affrontando una cosa alla volta", "value": "caspita" },
+        { "text": "Mi lamento teatralmente, ma in fondo mi diverto", "value": "perdindirindina" }
+      ]
+    },
+    {
+      "question": "Quale descrizione ti rappresenta di più?",
+      "options": [
+        { "text": "Affidabile e razionale, ma con un tocco ironico", "value": "accipicchia" },
+        { "text": "Empatico e passionale, anche quando sbagli", "value": "mannaggia" },
+        { "text": "Curioso e pieno di energia positiva", "value": "caspita" },
+        { "text": "Creativo e teatrale, sempre fuori dagli schemi", "value": "perdindirindina" }
+      ]
+    },
+    {
+      "question": "Quando un amico ti racconta un disastro che gli è capitato...",
+      "options": [
+        { "text": "Cerchi di consolarlo con calma e praticità", "value": "accipicchia" },
+        { "text": "Ridi con lui per sdrammatizzare", "value": "mannaggia" },
+        { "text": "Ti stupisci e poi gli dici che andrà meglio", "value": "caspita" },
+        {
+          "text": "Reinterpreti la scena in modo teatrale per tirarlo su",
+          "value": "perdindirindina"
+        }
+      ]
+    },
+    {
+      "question": "Come descriveresti la tua ironia?",
+      "options": [
+        { "text": "Delicata e intelligente", "value": "accipicchia" },
+        { "text": "Spontanea e autoironica", "value": "mannaggia" },
+        { "text": "Leggera e ottimista", "value": "caspita" },
+        { "text": "Eccentrica e rumorosa", "value": "perdindirindina" }
+      ]
+    },
+    {
+      "question": "Quando ricevi un complimento inaspettato...",
+      "options": [
+        { "text": "Ringrazi con un sorriso timido", "value": "accipicchia" },
+        { "text": "Ti imbarazzi e scherzi per alleggerire", "value": "mannaggia" },
+        { "text": "Ti entusiasmi e ringrazi con energia", "value": "caspita" },
+        { "text": "Rispondi con una battuta teatrale", "value": "perdindirindina" }
+      ]
+    },
+    {
+      "question": "In generale, come affronti la vita?",
+      "options": [
+        { "text": "Con calma e riflessione", "value": "accipicchia" },
+        { "text": "Con cuore e spontaneità", "value": "mannaggia" },
+        { "text": "Con entusiasmo e curiosità", "value": "caspita" },
+        { "text": "Con creatività e un pizzico di dramma", "value": "perdindirindina" }
+      ]
+    }
+  ],
+  "results": {
+    "accipicchia": "Educato ma deciso, affronti la vita con equilibrio e pacatezza. Sei la versione zen della sorpresa: raramente ti lasci travolgere, ma sai sempre come reagire con classe.",
+    "mannaggia": "Un’anima calorosa e autentica. Ti arrabbi, sbuffi, ma in fondo sei buono e autoironico. Ti capita di fare piccoli drammi quotidiani, ma sempre col sorriso.",
+    "caspita": "Ottimista e curioso, vedi il lato positivo di ogni situazione. Ti stupisci facilmente e riesci a contagiare gli altri con il tuo entusiasmo sincero.",
+    "perdindirindina": "Estroverso, teatrale e creativo: ogni tua reazione è uno spettacolo. Trasformi anche gli imprevisti in un’occasione per far sorridere chi ti sta intorno."
+  }
+}

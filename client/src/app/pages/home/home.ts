@@ -17,6 +17,11 @@ export class Home {
     { id: 'bidone', name: 'Bidone della spazzatura', img: 'images/bidone.jpg' },
     { id: 'calzino', name: 'Calzino', img: 'images/calzino.jpg' },
     { id: 'marvel', name: 'Marvel', img: 'images/marvel.jpg' },
+    { id: 'pizza', name: 'Pizza', img: 'images/pizza.jpg' },
+    { id: 'toons', name: 'Looney Toons', img: 'images/toons.jpg' },
+    { id: 'partiti', name: 'Partito', img: 'images/partiti.jpg' },
+    { id: 'sushi', name: 'Sushi', img: 'images/sushi.jpg' },
+    { id: 'parolacce', name: 'Parolacce', img: 'images/parolacce.jpg' },
   ];
 
   constructor(private router: Router) {}

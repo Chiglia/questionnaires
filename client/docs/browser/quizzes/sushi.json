@@ -1,0 +1,100 @@
+{
+  "questions": [
+    {
+      "question": "Come affronti una nuova esperienza?",
+      "options": [
+        { "text": "Con entusiasmo e curiosità", "value": "uramaki" },
+        { "text": "Con calma e rispetto per la tradizione", "value": "nigiri" },
+        { "text": "Con creatività e spirito d’avventura", "value": "temaki" },
+        { "text": "Osservo prima e poi decido se buttarmi", "value": "sashimi" }
+      ]
+    },
+    {
+      "question": "Come ti descriveresti in poche parole?",
+      "options": [
+        { "text": "Elegante e raffinato", "value": "sashimi" },
+        { "text": "Equilibrato e versatile", "value": "uramaki" },
+        { "text": "Classico e affidabile", "value": "nigiri" },
+        { "text": "Creativo e imprevedibile", "value": "temaki" }
+      ]
+    },
+    {
+      "question": "Cosa preferisci fare nel tempo libero?",
+      "options": [
+        { "text": "Sperimentare cose nuove", "value": "temaki" },
+        { "text": "Rilassarmi e godermi la semplicità", "value": "nigiri" },
+        { "text": "Curare i dettagli e migliorarmi", "value": "sashimi" },
+        { "text": "Divertirmi con gli amici", "value": "uramaki" }
+      ]
+    },
+    {
+      "question": "Qual è la tua filosofia di vita?",
+      "options": [
+        { "text": "La semplicità è la forma più alta di eleganza", "value": "sashimi" },
+        { "text": "Un po’ di tutto rende la vita più interessante", "value": "uramaki" },
+        { "text": "Meglio pochi ma buoni", "value": "nigiri" },
+        { "text": "La vita è un rotolo da riempire come vuoi", "value": "temaki" }
+      ]
+    },
+    {
+      "question": "Come ti comporti in un gruppo?",
+      "options": [
+        { "text": "Sono il collante che tiene tutti insieme", "value": "uramaki" },
+        { "text": "Preferisco i piccoli gruppi di fiducia", "value": "nigiri" },
+        { "text": "Mi distinguo con originalità", "value": "temaki" },
+        { "text": "Mi faccio notare per la mia calma e sicurezza", "value": "sashimi" }
+      ]
+    },
+    {
+      "question": "Cosa ti motiva di più?",
+      "options": [
+        { "text": "La curiosità verso il nuovo", "value": "temaki" },
+        { "text": "Il desiderio di armonia e stabilità", "value": "nigiri" },
+        { "text": "La voglia di perfezione", "value": "sashimi" },
+        { "text": "La compagnia e il divertimento", "value": "uramaki" }
+      ]
+    },
+    {
+      "question": "Come reagisci quando qualcosa va storto?",
+      "options": [
+        { "text": "Mi adatto e vado avanti", "value": "uramaki" },
+        { "text": "Resto calmo e analizzo la situazione", "value": "sashimi" },
+        { "text": "Cerco una soluzione semplice", "value": "nigiri" },
+        { "text": "Cambio tutto e riparto da zero", "value": "temaki" }
+      ]
+    },
+    {
+      "question": "Cosa non può mancare nella tua vita?",
+      "options": [
+        { "text": "Le persone che amo", "value": "uramaki" },
+        { "text": "La tranquillità", "value": "nigiri" },
+        { "text": "La libertà di esprimermi", "value": "temaki" },
+        { "text": "Il tempo per me stesso", "value": "sashimi" }
+      ]
+    },
+    {
+      "question": "Come ti comporti durante una cena elegante?",
+      "options": [
+        { "text": "Mantengo la calma e l’eleganza", "value": "sashimi" },
+        { "text": "Faccio ridere tutti con leggerezza", "value": "uramaki" },
+        { "text": "Apprezzo il cibo con discrezione", "value": "nigiri" },
+        { "text": "Mi butto sul piatto più strano", "value": "temaki" }
+      ]
+    },
+    {
+      "question": "Cosa rappresenta per te la felicità?",
+      "options": [
+        { "text": "Un equilibrio sereno", "value": "nigiri" },
+        { "text": "Una nuova scoperta ogni giorno", "value": "temaki" },
+        { "text": "Un momento condiviso con chi amo", "value": "uramaki" },
+        { "text": "Una sensazione di purezza e pace", "value": "sashimi" }
+      ]
+    }
+  ],
+  "results": {
+    "nigiri": "Sei un Nigiri! Classico, sincero e rassicurante. Ami la semplicità e preferisci la sostanza all’apparenza. Sei l’amico su cui si può sempre contare.",
+    "uramaki": "Sei un Uramaki! Socievole, allegro e versatile. Ti piace stare in compagnia e mescolare ingredienti diversi nella tua vita, sempre con un tocco di colore.",
+    "temaki": "Sei un Temaki! Creativo, indipendente e spontaneo. Ti piace sperimentare e vivere la vita a modo tuo, senza seguire le regole.",
+    "sashimi": "Sei un Sashimi! Elegante, minimalista e autentico. Ami la calma, la precisione e la purezza: meno fronzoli, più sostanza."
+  }
+}
