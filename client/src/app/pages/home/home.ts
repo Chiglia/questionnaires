@@ -1,11 +1,10 @@
 import { Component } from '@angular/core';
 import { Router } from '@angular/router';
 import { SharedModule } from '../../shared.module';
-import { DividerModule } from 'primeng/divider';
 
 @Component({
   selector: 'app-home',
-  imports: [SharedModule, DividerModule],
+  imports: [SharedModule],
   templateUrl: './home.html',
   styles: ``,
 })
