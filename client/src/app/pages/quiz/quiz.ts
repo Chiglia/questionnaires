@@ -3,6 +3,7 @@ import { ActivatedRoute, Router } from '@angular/router';
 import { QuizService } from '../../services/quiz.service';
 import { SharedModule } from '../../shared.module';
 import { ProgressBarModule } from 'primeng/progressbar';
+import { Question } from '../../services/quiz.interface';
 
 @Component({
   selector: 'app-quiz',
@@ -12,7 +13,7 @@ import { ProgressBarModule } from 'primeng/progressbar';
 })
 export class Quiz {
   quizId!: string;
-  questions: any[] = [];
+  questions: Question[] = [];
   currentIndex = 0;
   answers: string[] = [];
 

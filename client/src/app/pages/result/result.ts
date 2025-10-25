@@ -18,8 +18,8 @@ import { QuizService } from '../../services/quiz.service';
   styles: ``,
 })
 export class Result {
-  result = '';
-  description = '';
+  result: any = '';
+  description: string = '';
 
   constructor(public router: Router, private quizService: QuizService) {
     const { quizId, answers } = this.router.getCurrentNavigation()?.extras.state || {};
