@@ -1,12 +1,12 @@
 <p-progressbar [value]="progress" [showValue]="false" style="border-radius: 0" />
-<h2 class="text-center my-7">{{ questions[currentIndex].question }}</h2>
+<h2 class="text-center my-6">{{ questions[currentIndex].question }}</h2>
 <div class="grid">
   @for (option of questions[currentIndex].options; track $index) {
   <div class="col-6 lg:col-3">
     <p-button
       label="{{ option.text }}"
       (onClick)="selectAnswer(option.value)"
-      styleClass="w-full h-14rem border-round-3xl text-3xl surface-50"
+      styleClass="w-full h-11rem border-round-3xl text-3xl surface-50"
       severity="secondary"
     >
     </p-button>
