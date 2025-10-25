@@ -1,13 +1,30 @@
 <div class="grid mt-1 lg:p-4 lg:mt-0">
   @for (quiz of quizzes; track $index) {
   <div class="col-6 md:col-4 lg:col-3">
-    <p-button styleClass="relative w-full h-15rem" (onClick)="goToQuiz(quiz.id)">
-      <p class="absolute z-1 text-white-alpha-80 text-3xl font-bold">{{ quiz.name }}</p>
-      <img
-        src="{{ quiz.img }}"
+    <p-button
+      styleClass="relative w-full h-15rem border-round-3xl border-3 overflow-hidden"
+      severity="secondary"
+      [raised]="true"
+      (onClick)="goToQuiz(quiz.id)"
+    >
+      <div
+        class="absolute z-1 text-white w-full h-full flex flex-column align-items-center justify-content-center"
+        style="padding: 1rem"
+      >
+        <h5 class="text-3xl font-bold mb-0">{{ quiz.name }}</h5>
+        <hr class="w-7rem" />
+        <p class="mt-0">{{ quiz.description }}</p>
+      </div>
+
+      <div
         class="absolute z-0 w-full h-full"
-        style="filter: brightness(50%); object-fit: cover"
-      />
+        style="background-image: radial-gradient(circle at center,
+            rgba(0, 0, 0, 0.2) 40%,rgba(0, 0, 0, 0.6) 100%),
+              url('{{ quiz.img }}');
+              background-size: cover;
+              background-position: center;
+              filter: brightness(0.7);"
+      ></div>
     </p-button>
   </div>
   }
