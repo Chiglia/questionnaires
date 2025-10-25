@@ -3,102 +3,62 @@
     {
       "question": "Quale ambiente preferisci?",
       "options": [
-        { "text": "Foreste e natura selvaggia", "value": "erba" },
-        { "text": "Fiumi e mari", "value": "acqua" },
-        { "text": "Città e posti affollati", "value": "normale" },
-        { "text": "Montagne o vulcani", "value": "fuoco" }
+        { "text": "Un posto accogliente dove riposare", "value": "snorlax" },
+        { "text": "Un campo aperto dove posso correre e giocare", "value": "eevee" },
+        { "text": "Un luogo caldo e stimolante (vicino al fuoco)", "value": "charizard" },
+        { "text": "Un posto pieno di energia e scintille", "value": "pikachu" }
       ]
     },
     {
       "question": "Come affronti i problemi?",
       "options": [
-        { "text": "Con calma e ragionamento", "value": "psico" },
-        { "text": "Con forza e determinazione", "value": "lotta" },
-        { "text": "Adattandomi a ogni situazione", "value": "normale" },
-        { "text": "Con astuzia e strategia", "value": "buio" }
+        { "text": "Con rapidità ed energia", "value": "pikachu" },
+        { "text": "Con calma e forza, ma solo se necessario", "value": "snorlax" },
+        { "text": "Adattandomi e cercando la soluzione più flessibile", "value": "eevee" },
+        { "text": "Con determinazione e una fiammata di coraggio", "value": "charizard" }
       ]
     },
     {
       "question": "Quale attività ti diverte di più?",
       "options": [
-        { "text": "Nuotare o stare vicino all’acqua", "value": "acqua" },
-        { "text": "Cucinare o scaldarsi accanto al fuoco", "value": "fuoco" },
-        { "text": "Esplorare e scoprire cose nuove", "value": "erba" },
-        { "text": "Riposare e stare tranquillo", "value": "normale" }
+        { "text": "Ricaricare le energie con un buon sonno", "value": "snorlax" },
+        { "text": "Esplorare nuovi posti con gli amici", "value": "eevee" },
+        { "text": "Mettere alla prova i miei limiti e volare in alto", "value": "charizard" },
+        { "text": "Essere al centro dell'azione, veloce e scattante", "value": "pikachu" }
       ]
     },
     {
       "question": "Come reagisci in battaglia?",
       "options": [
-        { "text": "Colpisco forte e velocemente", "value": "lotta" },
-        { "text": "Studio le mosse dell’avversario", "value": "psico" },
-        { "text": "Cerco di confondere e sorprendere", "value": "buio" },
-        { "text": "Uso le mie abilità naturali", "value": "erba" }
+        { "text": "Colpisco con un attacco potente e rapido", "value": "pikachu" },
+        { "text": "Uso la mia forza per resistere e poi contrattaccare", "value": "snorlax" },
+        { "text": "Studio l'avversario e cerco il modo di adattarmi", "value": "eevee" },
+        { "text": "Non mi tiro indietro e uso la mia mossa più spettacolare", "value": "charizard" }
       ]
     },
     {
       "question": "Quale elemento ti attrae di più?",
       "options": [
-        { "text": "Acqua e fiumi", "value": "acqua" },
-        { "text": "Fuoco e lava", "value": "fuoco" },
-        { "text": "Terra e foreste", "value": "erba" },
-        { "text": "Cielo e libertà", "value": "volante" }
-      ]
-    },
-    {
-      "question": "Quale Pokémon ti rappresenta di più?",
-      "options": [
-        { "text": "Charmander o Charizard", "value": "fuoco" },
-        { "text": "Squirtle o Blastoise", "value": "acqua" },
-        { "text": "Bulbasaur o Venusaur", "value": "erba" },
-        { "text": "Pidgey o Pidgeot", "value": "volante" }
-      ]
-    },
-    {
-      "question": "Qual è il tuo approccio ai nuovi amici?",
-      "options": [
-        { "text": "Faccio amicizia lentamente ma con lealtà", "value": "erba" },
-        { "text": "Sono aperto e socievole subito", "value": "acqua" },
-        { "text": "Faccio amicizia con chi è forte e coraggioso", "value": "fuoco" },
-        { "text": "Preferisco osservare prima di avvicinarmi", "value": "buio" }
-      ]
-    },
-    {
-      "question": "Come trascorri il tuo tempo libero?",
-      "options": [
-        { "text": "Allenandomi o combattendo", "value": "lotta" },
-        { "text": "Meditando o leggendo", "value": "psico" },
-        { "text": "Passeggiando nella natura", "value": "erba" },
-        { "text": "Nuotando o rilassandomi vicino all’acqua", "value": "acqua" }
+        { "text": "Il fuoco e il calore", "value": "charizard" },
+        { "text": "Il riposo e la tranquillità", "value": "snorlax" },
+        { "text": "L'elettricità e la velocità", "value": "pikachu" },
+        { "text": "La semplicità e l'adattabilità", "value": "eevee" }
       ]
     },
     {
       "question": "Quale qualità ti descrive meglio?",
       "options": [
-        { "text": "Determinazione", "value": "fuoco" },
-        { "text": "Saggezza", "value": "psico" },
-        { "text": "Lealtà", "value": "erba" },
-        { "text": "Astuzia", "value": "buio" }
-      ]
-    },
-    {
-      "question": "Se potessi avere un’abilità speciale, quale sceglieresti?",
-      "options": [
-        { "text": "Controllare il fuoco", "value": "fuoco" },
-        { "text": "Controllare l’acqua", "value": "acqua" },
-        { "text": "Parlare con le piante e farle crescere", "value": "erba" },
-        { "text": "Leggere la mente degli altri", "value": "psico" }
+        { "text": "Energia e vivacità", "value": "pikachu" },
+        { "text": "Adattabilità e fedeltà", "value": "eevee" },
+        { "text": "Coraggio e passione", "value": "charizard" },
+        { "text": "Tranquillità e forza interiore", "value": "snorlax" }
       ]
     }
   ],
   "results": {
-    "fuoco": "Energetico e coraggioso, ama l’azione e affronta le sfide a testa alta.",
-    "acqua": "Calmo e adattabile, sa gestire ogni situazione con fluidità e pazienza.",
-    "erba": "Connesso con la natura, leale e riflessivo, ama crescere e aiutare gli altri.",
-    "normale": "Equilibrato e pragmatico, si adatta facilmente e ama la semplicità.",
-    "psico": "Intelligente e saggio, ama analizzare e comprendere ogni cosa.",
-    "lotta": "Determinato e forte, affronta i problemi con energia e coraggio.",
-    "buio": "Astuto e strategico, sa come sorprendere e ottenere vantaggi.",
-    "volante": "Libero e avventuroso, ama esplorare e sentirsi leggero come l’aria."
+    "pikachu": "Sei **Pikachu**! Sei pieno di energia, vivace e non hai paura di affrontare sfide, sprigionando scintille di allegria e determinazione. La tua velocità è il tuo punto di forza.",
+    "eevee": "Sei **Eevee**! Sei incredibilmente adattabile e versatile. La tua natura amichevole e la capacità di cambiare ti permettono di trovare il tuo posto in qualsiasi situazione e con chiunque.",
+    "snorlax": "Sei **Snorlax**! Ami la tranquillità e il riposo, ma non farti ingannare. Sotto la tua calma esteriore si nasconde una forza immensa e un cuore gentile che protegge i tuoi amici.",
+    "charizard": "Sei **Charizard**! Sei un leader coraggioso e determinato. La tua passione arde come una fiamma e affronti le sfide con grande ardore, puntando sempre a volare più in alto."
   }
 }
