@@ -23,12 +23,12 @@ export class Home {
     {
       id: 'pokemon',
       name: 'Pokémon',
-      description: 'Quale tipo di pokémon sei',
+      description: 'Quale pokémon sei',
     },
     {
       id: 'musica',
       name: 'Musica',
-      description: 'Quale genere musicale ti rappresenta',
+      description: 'Quale genere musicale sei',
     },
     {
       id: 'bidone',
@@ -53,7 +53,7 @@ export class Home {
     {
       id: 'toons',
       name: 'Looney Toons',
-      description: 'Quale personaggio dei Looney Toons sei',
+      description: 'Quale Looney Toons sei',
     },
     {
       id: 'partiti',

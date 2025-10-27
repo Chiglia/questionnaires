@@ -8,7 +8,7 @@
   <!-- Menu -->
   <div class="hidden md:flex align-items-center gap-2">
     <p-button routerLink="/" label="Home" variant="text" />
-    <p-button routerLink="/" label="About" variant="text" />
+    <p-button routerLink="/about" label="About" variant="text" />
     <p-button severity="contrast" [rounded]="true" icon="pi pi-moon" (click)="toggleTheme()" />
   </div>
 
@@ -21,7 +21,7 @@
 <p-drawer [(visible)]="menuVisible" position="right">
   <div class="flex flex-column gap-3 mt-4">
     <p-button routerLink="/" label="Home" variant="text" />
-    <p-button routerLink="/" label="About" variant="text" />
+    <p-button routerLink="/about" label="About" variant="text" />
     <p-button
       severity="contrast"
       [rounded]="true"
