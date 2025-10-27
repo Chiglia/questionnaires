@@ -1,9 +1,13 @@
 import { Component } from '@angular/core';
+import { SharedModule } from '../../shared.module';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-about',
-  imports: [],
-  template: ` <p>Made with ❤️ by Davide Chigliaro</p> `,
+  imports: [SharedModule],
+  templateUrl: './about.html',
   styles: ``,
 })
-export class About {}
+export class About {
+  constructor(public router: Router) {}
+}
