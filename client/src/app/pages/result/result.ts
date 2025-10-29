@@ -12,12 +12,11 @@ import { QuizService } from '../../services/quiz.service';
 })
 export class Result {
   result: any = '';
-  description: string = '';
-  quizId: string = '';
+  description = '';
+  quizId = '';
   imageUrl = '';
   imageExists = false;
-
-  ngOnInit() {}
+  otherResults: { key: string; description: string; image: string }[] = [];
 
   constructor(public router: Router, private quizService: QuizService) {
     const { quizId, answers } = this.router.getCurrentNavigation()?.extras.state || {};
@@ -27,13 +26,25 @@ export class Result {
           acc[val] = (acc[val] || 0) + 1;
           return acc;
         }, {});
+
         this.result = Object.keys(counts).reduce((a, b) => (counts[a] > counts[b] ? a : b));
         this.description = quiz.results[this.result] || '';
+
+        // Immagine del risultato principale
         this.imageUrl = `images/results/${quizId}/${this.result}.jpg`;
         const img = new Image();
         img.onload = () => (this.imageExists = true);
         img.onerror = () => (this.imageExists = false);
         img.src = this.imageUrl;
+
+        // Altri risultati (escludendo quello principale)
+        this.otherResults = Object.keys(quiz.results)
+          .filter((key) => key !== this.result)
+          .map((key: any) => ({
+            key,
+            description: quiz.results[key],
+            image: `images/results/${quizId}/${key}.jpg`,
+          }));
       });
     }
   }

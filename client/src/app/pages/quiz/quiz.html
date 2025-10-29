@@ -1,6 +1,6 @@
 <p-progressbar [value]="progress" [showValue]="false" style="border-radius: 0" />
 <h2 class="text-center my-6">{{ questions[currentIndex].question }}</h2>
-<div class="grid">
+<div class="grid justify-content-center">
   @for (option of questions[currentIndex].options; track $index) {
   <div class="col-6 lg:col-3">
     <p-button
