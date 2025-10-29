@@ -1,10 +1,12 @@
 import { Component } from '@angular/core';
 import { SharedModule } from '../../shared.module';
 import { Router } from '@angular/router';
+import { CardModule } from 'primeng/card';
+import { AvatarModule } from 'primeng/avatar';
 
 @Component({
   selector: 'app-about',
-  imports: [SharedModule],
+  imports: [SharedModule, CardModule, AvatarModule],
   templateUrl: './about.html',
   styles: ``,
 })
